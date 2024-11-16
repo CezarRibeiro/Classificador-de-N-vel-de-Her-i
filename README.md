@@ -1,2 +1,2 @@
-# Classificador-de-N-vel-de-Her-i
+Classificador de Nível de Herói
 Desafio DIO Classificador de Nível de Herói
